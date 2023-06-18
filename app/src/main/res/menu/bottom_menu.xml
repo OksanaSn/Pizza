@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/Menu"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/Profile"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_trash"
+        android:title="@string/Trash"
+        android:orderInCategory="3"/>
+
+
+
+</menu>

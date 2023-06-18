@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_pizza</string>
+    <string name="ToolBar">ToolBar</string>
+    <string name="Menu">Меню</string>
+    <string name="Profile">Профиль</string>
+    <string name="Trash">Корзина</string>
+    <string name="City">Москва</string>
+</resources>

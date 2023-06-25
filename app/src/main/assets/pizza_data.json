@@ -1,28 +1,28 @@
 [
   {
-    "id": "1234",
+    "id": "1",
     "name": "Margarita",
+    "description": "описание",
+    "price": 120.0,
+    "image": "string/@dra"
+  },
+{
+    "id": "2",
+    "name": "Pizza2",
     "description": "описание",
     "price": 120.0,
     "url": "https://imgage.com/14734525"
   },
 {
-    "id": "1234",
-    "name": "Margarita",
+    "id": "3",
+    "name": "Pizza3",
     "description": "описание",
     "price": 120.0,
     "url": "https://imgage.com/14734525"
   },
 {
-    "id": "1234",
-    "name": "Margarita",
-    "description": "описание",
-    "price": 120.0,
-    "url": "https://imgage.com/14734525"
-  },
-{
-    "id": "1234",
-    "name": "Margarita",
+    "id": "4",
+    "name": "Pizza4",
     "description": "описание",
     "price": 120.0,
     "url": "https://imgage.com/14734525"

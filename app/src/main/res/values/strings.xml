@@ -5,4 +5,13 @@
     <string name="Profile">Профиль</string>
     <string name="Trash">Корзина</string>
     <string name="City">Москва</string>
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="desserts">Десерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="vetmash">Ветчина и грибы</string>
+    <string name="vetmash_desc">ветчина, шампиньоны, моцарелла, томатный соус</string>
+    <string name="bavkolb">Баварские колбаски</string>
+    <string name="bavkolb_desc">баварские колбаски, ветчина, пикантная пипперони, острая чоризо, томатный соус </string>
+
 </resources>
